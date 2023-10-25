@@ -1,5 +1,5 @@
 # CSS BOX MODEL WARMUP
 
-## Can you make the code resemble this snapshot in the Browser?
+## Change the code to make the browser resemble this snapshot.
 
 ![Doge](assets/screenshot2.png)
