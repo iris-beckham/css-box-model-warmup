@@ -1,5 +1,7 @@
 # CSS BOX MODEL WARMUP
 
+## Fork and clone this repo
+
 ## Change the code to make the browser resemble this snapshot.
 
 ![Doge](assets/screenshot2.png)
