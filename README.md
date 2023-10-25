@@ -6,4 +6,4 @@
 
 ## Currently it should look like this
 
-![Bad Doge](assets/screenshot.png)
+![Bad Doge](assets/bac-screenshot.png)
