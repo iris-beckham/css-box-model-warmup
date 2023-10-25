@@ -14,9 +14,10 @@ section {
 article {
   display: inline-block;
   height: 300px;
-  width: 60%;
+  width: 450px;
   padding: 10px;
   border: 5px solid purple;
+  text-align: center;
 }
 
 p span {
