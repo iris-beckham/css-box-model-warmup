@@ -1,0 +1,31 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+  width: 100%;
+}
+
+article {
+  display: inline-block;
+  height: 300px;
+  width: 60%;
+  padding: 10px;
+  border: 5px solid purple;
+}
+
+p span {
+  color: rgb(190, 75, 9);
+  font-style: italic;
+  font-size: 1rem;
+}
+
+img {
+  height: 150px;
+  width: 220px;
+}
