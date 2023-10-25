@@ -2,4 +2,4 @@
 
 ## Can you make the code resemble this snapshot in the Browser?
 
-![Doge](assets/screenshot.png)
+![Doge](assets/screenshot2.png)
